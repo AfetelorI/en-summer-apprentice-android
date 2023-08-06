@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">TMS4</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="more">More</string>
+    <string name="orders">Orders</string>
+    <string name="events">Events</string>
+    <string name="untold">Untold</string>
+    <string name="descriere">Muzica electronica si nu numai</string>
+
+
+    <string-array name="numele_evenimentului">
+        <item>Untold</item>
+        <item>Electric Castle</item>
+        <item>Fotbal</item>
+        <item>Festival de vin</item>
+    </string-array>
+    
+    <string-array name="descriere_eveniment">
+        <item>Muzica electronica si nu numai</item>
+        <item>Muzica electronica si nu numai</item>
+        <item>Belgia-Spania</item>
+        <item>Festival de vin</item>
+    </string-array>
+</resources>
